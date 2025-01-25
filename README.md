@@ -1,8 +1,8 @@
-## Hi there! 👋 Welcome to my GitHub profile
+# Hi there! 👋 Welcome to my GitHub profile
 
 I'm a Full-Stack Developer passionate about building scalable, efficient, and user-friendly applications. Here, you'll find a mix of personal projects, collaborations, and contributions to open-source communities.
 
-# 🚀 About Me
+## 🚀 About Me
 
   🌟 I specialize in developing full-stack applications with modern frameworks and tools.
   
@@ -12,33 +12,33 @@ I'm a Full-Stack Developer passionate about building scalable, efficient, and us
   
   💬 Ask me about web development, system design, or any challenges you're facing in your coding journey.
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-  Frontend
+  ### Frontend
   
     HTML, CSS, JavaScript
     
-  Frameworks/Libraries
+  ### Frameworks/Libraries
   
-      React, Angular, Tailwind CSS
+    React, Angular, Tailwind CSS
       
-  Backend
+  ### Backend
   
-      Node.js, Express
+    Node.js, Express
       
-      Python (Django, Flask)
+    Python (Django, Flask)
       
-  Database
+  ### Database
   
-      SQL: MySQL, PostgreSQL
+    SQL: MySQL, PostgreSQL
       
-      NoSQL: MongoDB, Firebase
+    NoSQL: MongoDB, Firebase
       
-  DevOps & Tools
+  ### DevOps & Tools
   
-      Git, GitHub, Docker, Jenkins
+    Git, GitHub, Docker, Jenkins
       
-      AWS, Azure, Google Cloud
+    AWS, Azure, Google Cloud
 <!--
 **AswathAV/AswathAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
