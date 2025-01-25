@@ -1,4 +1,4 @@
-##Hi there! 👋 Welcome to my GitHub profile
+## Hi there! 👋 Welcome to my GitHub profile
 
 I'm a Full-Stack Developer passionate about building scalable, efficient, and user-friendly applications. Here, you'll find a mix of personal projects, collaborations, and contributions to open-source communities.
 
