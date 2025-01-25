@@ -12,22 +12,18 @@ I'm a Full-Stack Developer passionate about building scalable, efficient, and us
 🛠️ Tech Stack
 
   Frontend
-    HTML, CSS, JavaScript
+      HTML, CSS, JavaScript
   Frameworks/Libraries
-    React, Angular, Tailwind CSS
+      React, Angular, Tailwind CSS
   Backend
-    Node.js, Express
-    Python (Django, Flask)
-
-Database
-
-  SQL: MySQL, PostgreSQL
-  NoSQL: MongoDB, Firebase
-
-DevOps & Tools
-
-  Git, GitHub, Docker, Jenkins
-  AWS, Azure, Google Cloud
+      Node.js, Express
+      Python (Django, Flask)
+  Database
+      SQL: MySQL, PostgreSQL
+      NoSQL: MongoDB, Firebase
+  DevOps & Tools
+      Git, GitHub, Docker, Jenkins
+      AWS, Azure, Google Cloud
 <!--
 **AswathAV/AswathAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
