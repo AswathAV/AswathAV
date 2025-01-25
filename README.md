@@ -36,7 +36,7 @@ I'm a Full-Stack Developer passionate about building scalable, efficient, and us
       
   ### DevOps & Tools
   
-    Git, GitHub, Docker, Jenkins
+    Git, GitHub
       
     AWS, Azure, Google Cloud
 <!--
